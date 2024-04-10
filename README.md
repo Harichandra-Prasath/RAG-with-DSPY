@@ -3,3 +3,4 @@
 1. Generation of Synthetic data using Synthesizer
 2. Population to weavite
 3. Basic Implementation of RAG
+4. Simple Evaluator for Generated Answers
